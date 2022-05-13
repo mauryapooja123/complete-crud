@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "name": "kiran",
+      "email": "pooja@123gmail.com",
+      "password": "784534789",
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "name": "kiran",
+      "email": "anshika@123gmail.com",
+      "password": "325345",
+      "id": 9
+    }
+  ]
+}

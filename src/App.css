@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+.login-background {
+  justify-content: center;
+  min-height: 30vh;
+  padding: 50px;
+  background-color: rgb(20, 187, 209);
+  background-color: blueviolet;
+}
